@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;500&display=swap");
+
+.bg-pink {
+    background-color: #de1c85;
+}
+
+.navfont {
+    font-family: 'Nunito', sans-serif;
+    font-size: 1.25rem;
+    font-weight: 500;
+}
+
+.cardfont {
+    font-family: 'Nunito', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.rounded-10 {
+    border-radius: 10%;
+}
+
+.h-600p {
+    min-height: 600px;
+}
+
+.cover{
+    object-fit: cover;
+}
